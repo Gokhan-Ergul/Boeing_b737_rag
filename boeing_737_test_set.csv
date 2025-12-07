@@ -1,0 +1,19 @@
+Question,Labelled Answer,Page reference
+"I'm calculating our takeoff weight for a dry runway. We're at 2,000 feet pressure altitude, and the OAT is 50°C. What's the climb limit weight ?","Based on the data for a dry runway at 2,000 feet pressure altitude with an OAT of 50°C, the Climb Limit Weight is 52,200 kg.",83
+"We're doing a Flaps 15 takeoff. Remind me, what is the first flap selection we make during retraction, and at what speed?","For a Flaps 15 takeoff, the first flap selection during retraction is Flaps 5, which you select at V2 + 15 knots.",41
+"We're planning a Flaps 40 landing on a wet runway at a 1,000-foot pressure altitude airport. If the wind-corrected field length is 1,600 meters, what is our field limit weight?","For a Flaps 40 landing on a wet runway at 1,000 feet pressure altitude with a 1,600-meter wind-corrected field length, the field limit weight is 55,800 kg",99
+"Reviewing the standard takeoff profile: After we're airborne and get a positive rate of climb, what is the first action we take?","After getting a positive rate of climb, the first action is to call for ""GEAR UP"". This is shown in both the ""Takeoff Procedure"" table and the ""Takeoff"" flight pattern diagram.","39,51"
+"Looking at the panel scan responsibilities for when the aircraft is stationary, who is responsible for the forward aisle stand?","Based on the ""Panel Scan Diagram"" for when the airplane is not moving under its own power, the Captain is responsible for the forward aisle stand (the area labeled with the number 6).",6
+"For a standard visual pattern, what three actions must be completed prior to turning base?","According to the ""Visual Traffic Pattern"" diagram, the three actions to complete prior to turning base are:
+Gear down
+Flaps 15 (landing flaps for 1 engine)
+Arm speedbrake",56
+"If the PF is making entries into the CDU during flight, what must the PF do prior to execution?","Prior to execution, the Pilot Flying must verify the CDU entries made by the Pilot Not Flying.",5
+"I see an amber ""STAIRS OPER"" light illuminated on the forward attendant panel; what does that light indicate?","That amber STAIRS OPER (Operating) light indicates that the airstair is in transit (i.e., currently extending or retracting).",126
+We've just completed the engine start. What is the correct configuration for the ISOLATION VALVE switch during the After Start Procedure?,"During the After Start Procedure, the ISOLATION VALVE switch should be set to AUTO.",35
+"During the Descent and Approach procedure, what action is taken with the AUTO BRAKE select switch , and what is the Pilot Flying's final action regarding the autobrake system during the Landing Roll procedure?","Here are the autobrake actions for those two phases of flight:
+Descent and Approach Procedure
+During the Descent and Approach Procedure, you set the AUTO BRAKE select switch to the desired brake setting.
+
+Landing Roll Procedure
+The Pilot Flying's final action regarding the autobrake system is to disarm the autobrake prior to reaching taxi speed.","43, 47"
